@@ -1,0 +1,12 @@
+# Engram local database (se sincroniza via chunks, no el DB directamente)
+.engram/engram.db
+.engram/*.db-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
