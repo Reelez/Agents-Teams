@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Agents Team" width="600"/>
+  <img src="logo.png" alt="Agents Team" width="900"/>
 </p>
 
 # Agents Team
